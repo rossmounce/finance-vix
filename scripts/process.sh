@@ -1,4 +1,5 @@
 #!/bin/bash
+exec &>/tmp/my.log #for debugging cronjob
 mkdir -p archive
 mkdir -p data
 curl http://www.cboe.com/publish/ScheduledTask/MktData/datahouse/vixcurrent.csv > archive/vixcurrent.csv
