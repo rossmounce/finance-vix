@@ -13,6 +13,7 @@ cat archive/vixcurrent.csv | \
   sed "s/\<[0-9]\>/0&/g" \
   > data/vix-daily.csv
 
+cd /home/ross/workspace/finance-vix
 git add data/vix-daily.csv
-git commit -m 'update'
+git commit -m 'updatenew'
 git push origin master
