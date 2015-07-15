@@ -82,7 +82,7 @@ Panton
 Principles​
 )
 Open Educational Resources (OER) - ​
-high quality, openly licensed, online
+high quality, openly licenced, online
 educational materials for sharing, use, and reuse. They act as a mechanism for
 instructional innovation as networks of teachers and learners share best
 practices. (​
@@ -91,7 +91,7 @@ Source​
 Open Source Software (OSS) - ​
 availability of source code for a piece of
 software, along with an ​
-open source license permitting reuse, adaptation, and
+open source licence permitting reuse, adaptation, and
 further distribution. (​
 Wikipedia​
 )
@@ -318,7 +318,7 @@ Open Access in the Budapest sense, and some are not. (​
 Source​
 ) (​
 Choosing a
-license​
+licence​
 )
 ● CC Attribution (BY) - ​
 a licence clause that allows the reuse, sharing, and
@@ -348,19 +348,19 @@ A family of UNIX-like operating
 systems. (​
 Wikipedia​
 )
-● GNU GPL (General Public License) - ​
-A free copyleft license for software and
+● GNU GPL (General Public licence) - ​
+A free copyleft licence for software and
 other kinds of works (​
 Source​
 )
-● Apache License - A free software license by the Apache Software Foundation.
+● Apache licence - A free software licence by the Apache Software Foundation.
 (​
 Source​
 )
-● MIT License​
+● MIT licence​
 -​
 ​
-An open and permissive software license. (​
+An open and permissive software licence. (​
 Source​
 )
 ● Author Addendum ​
@@ -1070,7 +1070,7 @@ About This Resource
 This resource is lightly edited from an original created by created by ​
 Jon Tennant and
 Ross Mounce​
-. This material is licensed under a CC-0 license. We strongly encourage
+. This material is licenced under a CC-0 licence. We strongly encourage
 the distribution and re-use of this material.
 Version 2.0: Released [12 July 2015]
 Additional contributors:
